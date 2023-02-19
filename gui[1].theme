@@ -1,0 +1,12 @@
+[Window][##Main]
+pos=31,138
+size=1000,509
+
+[Window][StatsWindow]
+pos=185,23
+size=102,32
+
+[Window][Binds]
+pos=60,60
+size=247,88
+
